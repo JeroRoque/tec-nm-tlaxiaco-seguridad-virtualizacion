@@ -1,7 +1,9 @@
 Evaluación de Redes y Sistemas Operativos
 
-Nombre:	Fecha:	Matrícula:
-Jeronima Roque Caballero	22-08-20024	21620206
+Nombre:	                      Fecha:             	Matrícula:
+Jeronima Roque Caballero     	22-08-20024	         21620206
+
+
 Instrucciones
 Responde las siguientes preguntas de manera clara y concisa. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia.
 
